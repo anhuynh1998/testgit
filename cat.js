@@ -4,7 +4,7 @@ class Cat extends Component {
     render() {
         return (
             <div>
-                hello
+                hello 1
                 
             </div>
         );
